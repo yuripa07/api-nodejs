@@ -43,6 +43,34 @@
       "when": 1757118360501,
       "tag": "0005_deep_war_machine",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1757179935677,
+      "tag": "0006_soft_triathlon",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1757179965049,
+      "tag": "0007_wandering_moondragon",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1757180018800,
+      "tag": "0008_low_power_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1757180213049,
+      "tag": "0009_wide_kinsey_walden",
+      "breakpoints": true
     }
   ]
 }

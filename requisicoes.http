@@ -1,8 +1,9 @@
 POST http://localhost:3333/courses
 Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMGNlYmVkYy00MDI0LTRhZjQtYWY3YS0yNThlODQ2ZGI0NTUiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1NzE4NDU1NH0.001HQ6xt1hdksW8-Y_rW1do5bFpWgSm4u3wdXREz4mE
 
 {
-  "title": "Curso de Docker"
+  "title": "Curso de React"
 }
 
 ###
@@ -11,4 +12,14 @@ GET http://localhost:3333/courses
 
 ###
 
-GET http://localhost:3333/courses/85a1aa19-926e-4731-8fed-daa44fec0a23
+GET http://localhost:3333/courses/ef55c5df-5971-48c5-8f5f-56c11b826033
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMGNlYmVkYy00MDI0LTRhZjQtYWY3YS0yNThlODQ2ZGI0NTUiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1NzE4NDU1NH0.001HQ6xt1hdksW8-Y_rW1do5bFpWgSm4u3wdXREz4mE
+###
+
+POST http://localhost:3333/sessions
+Content-Type: application/json
+
+{
+  "email": "Gustavo78@live.com",
+  "password": "123456"
+}
