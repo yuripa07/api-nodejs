@@ -15,6 +15,34 @@
       "when": 1756663385959,
       "tag": "0001_fuzzy_fantastic_four",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1757116599701,
+      "tag": "0002_jazzy_vapor",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1757116668863,
+      "tag": "0003_early_doctor_strange",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1757117889216,
+      "tag": "0004_same_red_shift",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1757118360501,
+      "tag": "0005_deep_war_machine",
+      "breakpoints": true
     }
   ]
 }
